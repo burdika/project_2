@@ -1,0 +1,22 @@
+
+
+div.middle{
+    background: url('img/middle.png') repeat-y;
+}
+
+
+div.top{
+    background: url('img/top.png') no-repeat left top;
+}
+
+
+div.bottom{
+    background: url('img/bottom.png') no-repeat left bottom;
+}
+
+
+
+.content{
+    width: 700px;
+    margin-left: 300px;
+}
